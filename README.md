@@ -27,7 +27,7 @@ Operand : C,A,B
   
 # Latihan soal 3
   
-1.Hasilnya 3.333333
+1.Hasilnya 3.333333.....n
 
 2.tipe data yang akan dioperasikan harus sama supaya bisa dijalankan
 
@@ -84,7 +84,7 @@ hasil akhir=3
 
 2.Nilai variabel x adalah 2
 
-3.-
+3.~
 
 4.Jika operasi prefix increment hasilnya x=2,y=1
 Jika postfix increment hasilnya x=2,y=2
