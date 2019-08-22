@@ -84,7 +84,7 @@ hasil akhir=3
 
 2.Nilai variabel x adalah 2
 
-3.
+3.-
 
 4.Jika operasi prefix increment hasilnya x=2,y=1
 Jika postfix increment hasilnya x=2,y=2
