@@ -1,4 +1,4 @@
-# Latihan soal 1
+# Latihan soal 2
 
 # Script
 /*
